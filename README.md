@@ -39,7 +39,7 @@ Os modelos ensemble (Random Forest e Gradient Boosting) tiveram o melhor resulta
 
 ### Vídeo
 
-> 📺 [Assistir no YouTube](https://youtube.com/SEU_LINK_AQUI)  
+> 📺 [Assistir no YouTube]([https://youtube.com/SEU_LINK_AQUI](https://youtu.be/duZiSH3k5ms))  
 > *(não listado, até 5 minutos)*
 
 ---
